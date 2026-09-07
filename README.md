@@ -42,3 +42,4 @@ Open your browser at:
 10. 🗺️ Maps Hub: Geolocation pinpointing and landmarks in Addis Ababa
 11. 📣 Social Media Hub: Multi-channel broadcast dispatcher for Telegram & X
 12. 📡 Network Diagnostics: Latency ping tests, DNS resolution, and ASGI health
+https://bullideapp-mf3myhsq.manus.spac
